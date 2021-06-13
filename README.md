@@ -1,2 +1,2 @@
 # PHP-Programming
-Problem Solving in C Language
+Problem Solving in php Language
